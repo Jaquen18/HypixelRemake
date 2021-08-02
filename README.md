@@ -1,4 +1,4 @@
-# HypixelRemake
+# Hypixel Remake
 
 All configuration of Hypixel Remake
 
